@@ -1,0 +1,8 @@
+{
+  "name": "SJ Assistant",
+  "description": "Lightweight offline-first multilingual AI assistant for Android in Marathi, Hindi, and English with voice, notes, reminders, local docs, and low-RAM optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

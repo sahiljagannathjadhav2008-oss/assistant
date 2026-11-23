@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SJ Assistant</string>
+    <string name="cd_app_logo">SJ Assistant Logo</string>
+    <string name="cd_hero_banner">Offline Private AI Banner</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_voice_input">Voice input</string>
+    <string name="cd_speak_response">Read response aloud</string>
+    <string name="cd_stop_speaking">Stop speaking</string>
+    <string name="cd_add_item">Add item</string>
+    <string name="cd_delete_item">Delete item</string>
+    <string name="cd_import_document">Import local document</string>
+    <string name="cd_load_gguf">Load local GGUF model</string>
+    <string name="cd_toggle_flashlight">Toggle flashlight</string>
+    <string name="notification_channel_name">SJ Assistant Reminders</string>
+    <string name="notification_channel_desc">Offline scheduled reminders and alerts</string>
+</resources>
